@@ -1,14 +1,12 @@
 # Frappe Client
-
-
-    Frappe php client for access frappe and erpnext api from php application.
+   Frappe php client for access frappe and erpnext api from php application.
     
-##Installation
+## Installation
 
 It's another php package, so instllation is not different.
     Run command: ```composer require hizbul/frappe-client```
     
-##Configuration
+## Configuration
 
    Create a `.env` file in your project root directory and add following configuration options: 
    
@@ -20,7 +18,8 @@ It's another php package, so instllation is not different.
    ```
     
 
-##Developer
-    Hizbul Bahar
-    Sr. Python Developer
-    Email: hizbul25@gmail.com
+## Developer
+    
+   * Hizbul Bahar
+   * Sr. Python Developer
+   * Email: hizbul25@gmail.com
