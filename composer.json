@@ -21,11 +21,6 @@
     "autoload": {
         "psr-4": {
             "Hizbul\\Client\\": "src/"
-        },
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Hizbul\\Package\\": "package/Hizbul/"
         }
     },
     "minimum-stability": "dev"
